@@ -49,6 +49,8 @@ Also designed by M. Kellett, this version provides higher gain and a slightly na
 
 ## Notes
 
-- These designs are intended for experimentation and adaptation.  
-- Component values and performance figures are approximate and may vary depending on build and layout.  
-- KiCad version compatibility: **KiCad 10** recommended.  
+These designs are intended for experimentation and adaptation.
+
+All components are easy to source. For the 9V power connection, the PCB will accomodate any 2-pin screw terminal block with 3.5 to 5.08 mm pin pitch. For the audio input and output, an AliExpress stereo audio jack socket can be used (only the tip and the screen is used, the ring is not connected). Alternatively, the audio connections can be made with 0.1" pin headers (they will fit in the same footprint, as there are extra holes for that).
+
+
