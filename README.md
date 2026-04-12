@@ -37,7 +37,7 @@ Also designed by M. Kellett, this version provides higher gain and a slightly na
 - **Use case:** Higher gain stage for weak signal amplification  
 
 ### Schematic
-![K2 Schematic](preamp_k2/k2_schmematic_rev1_0.png)
+![K2 Schematic](preamp_k2/k2_schematic_rev1_0.png)
 
 ### PCB Top
 ![K2 Top](preamp_k2/k2_top.png)
