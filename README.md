@@ -3,9 +3,10 @@
 This repository contains two discrete audio preamplifier designs intended primarily for HF receiver applications (speech bandwidth, not music).  
 
 Each design includes:
-- KiCad 10 schematic and PCB files  
+- KiCad 10 schematic and PCB files
+- KiCad 10 SPICE Simulation Workbook
 - Gerber files for fabrication  
-- PDF exports for easy viewing without KiCad  
+- PDF schematic export and PCB screenshots for easy viewing without KiCad  
 
 ---
 
