@@ -1,6 +1,6 @@
 # Discrete Amps
 
-This repository contains two discrete audio preamplifier designs intended primarily for HF receiver applications (speech bandwidth, not music).  
+This repository contains  discrete audio amplifier designs intended primarily for HF receiver applications (speech bandwidth, not music).  
 
 Each design includes:
 - KiCad 10 schematic and PCB files
