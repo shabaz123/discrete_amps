@@ -63,7 +63,7 @@ Also designed by M. Kellett, this amplifier is a power stage, and it directly dr
 - **Use case:** Driving an 8-ohm speaker in a radio receiver  
 
 ### Schematic
-![K2 Schematic](poweramp_k1/k1_schematic_rev1_0.png)
+![K2 Schematic](poweramp_k1/poweramp_k1_schematic_rev1_0.png)
 
 ### PCB Top
 ![K2 Top](poweramp_k1/poweramp_k1_top.png)
