@@ -76,6 +76,33 @@ Also designed by M. Kellett, this amplifier is a power stage, and it directly dr
 
 ---
 
+## Diffamp S1
+
+This is a difference amplifier, designed for input signals up to about 400 mV p-p. Note: this circuit has not been assembled yet, and may have instabilities. 
+
+- **Gain:** ~10 dB  
+- **Bandwidth (-3 dB):** ~30 Hz to 40 kHz (approximate)  
+- **Use case:** Acting somewhat like a telephone hybrid, for a DIY intercom/field phone, to remove the local audio sound from the remotely received sound
+
+Note: For higher gain (about 30 dB) and correspondingly lower maximum imput signals, make the following two changes:
+
+1. Take the output from Q4 collector, rather than Q3 collector
+2. Move C6 to Q4 collector instead of Q3 collector.
+
+### Schematic
+![Diffamp S1 Schematic](diffamp_s1/diffamp_s1_schematic_rev1_0.png)
+
+### PCB Top
+![Diffamp S1 Top](diffamp_s1/diffamp_s1_top.png)
+
+### PCB Underside
+![Diffamp S1 Underside](diffamp_s1/diffamp_s1_underside.png)
+
+### PCB Render
+![Diffamp S1 Render](diffamp_s1/diffamp_s1_render.png)
+
+---
+
 ## Notes
 
 These designs are intended for experimentation and adaptation.
